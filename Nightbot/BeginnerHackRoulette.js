@@ -67,3 +67,5 @@
 hacks = ['hack1', 'hack2', 'hack3']
 
 hacks[Math.floor(Math.random()*a.length)]
+
+string = "wow this is a marvelous rainbow string are you jelly ms pants??? :3"
