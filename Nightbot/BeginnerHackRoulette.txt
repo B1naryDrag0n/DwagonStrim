@@ -1,2 +1,2 @@
-hacks = ['hack1', 'hack2', 'hack3']
-hacks[Math.floor(Math.random()*a.length)]
+hacks = ['hack1', 'hack2', 'hack3'];
+hacks[Math.floor(Math.random()*a.length)];
