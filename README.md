@@ -1,2 +1,2 @@
 # StrimStuff
-Code used to add Twitch chat features
+Code for my Twitch chat :3
