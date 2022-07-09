@@ -1,0 +1,94 @@
+{
+    "hacks" : [
+        {
+            "title" : "Of Jumps and Platforms",
+            "exits" : "7",
+            "creators" : "Darolac",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Nightmare Cafe",
+            "exits" : "0",
+            "creators" : "Lush_50",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Cute Kaizo World",
+            "exits" : "14",
+            "creators" : "slopcore",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Baby Kaizo World",
+            "exits" : "44",
+            "creators" : "Nowieso",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Scary Bosses and Nice Sprites",
+            "exits" : "10",
+            "creators" : "Darolac",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Backwards Mario World",
+            "exits" : "13",
+            "creators" : "westslasher2",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "EZ Kaizo",
+            "exits" : "15",
+            "creators" : "blueribbonhighlife",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Orcus",
+            "exits" : "25",
+            "creators" : "Jordan",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Quickie World",
+            "exits" : "14",
+            "creators" : "Valdio",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "A Christmas Gift",
+            "exits" : "4",
+            "creators" : "The_Uber_Camper",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Quickie World 2",
+            "exits" : "22",
+            "creators" : "Valdio",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Cuter Kaizo World",
+            "exits" : "15",
+            "creators" : "slopcore",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Newbie Kaizo World",
+            "exits" : "11",
+            "creators" : "Azula16",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Love Yourself",
+            "exits" : "17",
+            "creators" : "Chondontore",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Nightmare Cafe II",
+            "exits" : "0",
+            "creators" : "Lush_50",
+            "playedOnStrim" : "true"
+        }
+    ]
+}
