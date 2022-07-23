@@ -104,6 +104,13 @@
             "creators" : "Lush_50",
             "difficulty" : "beginner",
             "playedOnStrim" : "true"
+        },
+        {
+            "title": "Full Bloom",
+            "exits": "13",
+            "creators": "Chondontore",
+            "difficulty": "beginner",
+            "playedOnStrim": "false"
         }
     ]
 }
