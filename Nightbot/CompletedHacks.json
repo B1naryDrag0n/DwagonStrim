@@ -1,18 +1,116 @@
-[
-    "Of Jumps and Platforms_7_Darolac",
-    "Nightmare Cafe_0_Lush_50",
-    "Cute Kaizo World_14_slopcore",
-    "Baby Kaizo World_44_Nowieso",
-    "Scary Bosses and Nice Sprites_10_Darolac",
-    "Backwards Mario World_13_westslasher2",
-    "EZ Kaizo_15_blueribbonhighlife",
-    "Orcus_25_Jordan",
-    "Quickie World_14_Valdio",
-    "A Christmas Gift_4_The_Uber_Camper",
-    "Quickie World 2_22_Valdio",
-    "Cuter Kaizo World_15_slopcore",
-    "Newbie Kaizo World_11_Azula16",
-    "Love Yourself_17_Chondontore",
-    "Nightmare Cafe II_0_Lush_50",
-    "Full Bloom_13_Chondontore"
-]
+{
+    "hacks" : [
+        {
+            "title" : "Of Jumps and Platforms",
+            "exits" : "7",
+            "creators" : "Darolac",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Nightmare Cafe",
+            "exits" : "0",
+            "creators" : "Lush_50",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Cute Kaizo World",
+            "exits" : "14",
+            "creators" : "slopcore",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Baby Kaizo World",
+            "exits" : "44",
+            "creators" : "Nowieso",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Scary Bosses and Nice Sprites",
+            "exits" : "10",
+            "creators" : "Darolac",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Backwards Mario World",
+            "exits" : "13",
+            "creators" : "westslasher2",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "EZ Kaizo",
+            "exits" : "15",
+            "creators" : "blueribbonhighlife",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Orcus",
+            "exits" : "25",
+            "creators" : "Jordan",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Quickie World",
+            "exits" : "14",
+            "creators" : "Valdio",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "A Christmas Gift",
+            "exits" : "4",
+            "creators" : "The_Uber_Camper",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Quickie World 2",
+            "exits" : "22",
+            "creators" : "Valdio",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Cuter Kaizo World",
+            "exits" : "15",
+            "creators" : "slopcore",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Newbie Kaizo World",
+            "exits" : "11",
+            "creators" : "Azula16",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Love Yourself",
+            "exits" : "17",
+            "creators" : "Chondontore",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Nightmare Cafe II",
+            "exits" : "0",
+            "creators" : "Lush_50",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title": "Full Bloom",
+            "exits": "13",
+            "creators": "Chondontore",
+            "difficulty": "beginner",
+            "playedOnStrim": "false"
+        }
+    ]
+}
