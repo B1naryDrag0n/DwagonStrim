@@ -111,6 +111,27 @@
             "creators": "Chondontore",
             "difficulty": "beginner",
             "playedOnStrim": "false"
+        },
+        {
+            "title": "Stardust",
+            "exits": "4",
+            "creators": "Kinkerton",
+            "difficulty": "beginner",
+            "playedOnStrim": "false"
+        },
+        {
+            "title": "TIAGHTPIYJSPKW",
+            "exits": "26",
+            "creators": "BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui",
+            "difficulty": "beginner",
+            "playedOnStrim": "true"
+        },
+        {
+            "title": "",
+            "exits": "",
+            "creators": "",
+            "difficulty": "",
+            "playedOnStrim": ""
         }
     ]
 }
