@@ -1,4 +1,13 @@
 {
+    "inprogress" : [
+        {
+            "title": "TIAGHTPIYJSPKW",
+            "exits": "26",
+            "creators": "BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui",
+            "difficulty": "beginner",
+            "playedOnStrim": "true"
+        }
+    ],
     "hacks" : [
         {
             "title" : "Of Jumps and Platforms",
@@ -120,18 +129,11 @@
             "playedOnStrim": "false"
         },
         {
-            "title": "TIAGHTPIYJSPKW",
-            "exits": "26",
-            "creators": "BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui",
-            "difficulty": "beginner",
-            "playedOnStrim": "true"
-        },
-        {
-            "title": "",
-            "exits": "",
-            "creators": "",
-            "difficulty": "",
-            "playedOnStrim": ""
+            "title": "...",
+            "exits": "...",
+            "creators": "...",
+            "difficulty": "...",
+            "playedOnStrim": "..."
         }
     ]
 }
