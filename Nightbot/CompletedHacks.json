@@ -1,11 +1,18 @@
 {
     "inprogress" : [
         {
-            "title": "TIAGHTPIYJSPKW",
-            "exits": "26",
-            "creators": "BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui",
-            "difficulty": "beginner",
-            "playedOnStrim": "true"
+            "title" : "TIAGHTPIYJSPKW",
+            "exits" : "26",
+            "creators" : "BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Cornucopia of Kaizo",
+            "exits" : "27",
+            "creators" : "CoozieShawn",
+            "difficulty" : "intermediate",
+            "playedOnStrim" : "false"
         }
     ],
     "hacks" : [
@@ -129,11 +136,11 @@
             "playedOnStrim": "false"
         },
         {
-            "title": "...",
-            "exits": "...",
-            "creators": "...",
-            "difficulty": "...",
-            "playedOnStrim": "..."
+            "title" : "...",
+            "exits" : "...",
+            "creators" : "...",
+            "difficulty" : "...",
+            "playedOnStrim" : "..."
         }
     ]
 }
