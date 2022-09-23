@@ -6,13 +6,6 @@
             "creators" : "BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui",
             "difficulty" : "beginner",
             "playedOnStrim" : "true"
-        },
-        {
-            "title" : "Cornucopia of Kaizo",
-            "exits" : "27",
-            "creators" : "CoozieShawn",
-            "difficulty" : "intermediate",
-            "playedOnStrim" : "false"
         }
     ],
     "hacks" : [
@@ -134,6 +127,13 @@
             "creators": "Kinkerton",
             "difficulty": "beginner",
             "playedOnStrim": "false"
+        },
+        {
+            "title" : "Cornucopia of Kaizo",
+            "exits" : "27",
+            "creators" : "CoozieShawn",
+            "difficulty" : "intermediate",
+            "playedOnStrim" : "false"
         },
         {
             "title" : "...",
