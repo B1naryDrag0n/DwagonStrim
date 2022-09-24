@@ -6,6 +6,13 @@
             "creators" : "BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui",
             "difficulty" : "beginner",
             "playedOnStrim" : "true"
+        },
+        {
+            "title" : "Akogare Mario World",
+            "exits" :"28",
+            "creators" : "Mega",
+            "difficulty" : "intermediate",
+            "playedOnStrim" : "false"
         }
     ],
     "hacks" : [
