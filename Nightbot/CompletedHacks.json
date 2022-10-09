@@ -13,6 +13,13 @@
             "creators" : "Mega",
             "difficulty" : "intermediate",
             "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Ambivalence",
+            "exits" :"11",
+            "creators" : "drkrdnk",
+            "difficulty" : "intermediate",
+            "playedOnStrim" : "true"
         }
     ],
     "hacks" : [
@@ -141,6 +148,13 @@
             "creators" : "CoozieShawn",
             "difficulty" : "intermediate",
             "playedOnStrim" : "false"
+        },
+        {
+            "title" : "Super Moo World",
+            "exits" : "16",
+            "creators" : "Jenboo",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "true"
         },
         {
             "title" : "...",
