@@ -20,6 +20,13 @@
             "creators" : "drkrdnk",
             "difficulty" : "intermediate",
             "playedOnStrim" : "true"
+        },
+        {
+            "title" : "NH World",
+            "exits" :"6",
+            "creators" : "l337f00l",
+            "difficulty" : "beginner",
+            "playedOnStrim" : "false"
         }
     ],
     "hacks" : [
