@@ -4,25 +4,77 @@
 - Decide how many emotes I want
 - Find which emotions the emotes should convey
 
+- Take pictures making weird faces to make some more emotes
+- JAM emote: take pic of myself with headset on and animate it
+
 # SPECIAL STREAM
 
-- 12 hour stream during xmas vacations
-- Incentives for a longer stream up to 24h?
+- 12 hours of gaming stream during xmas vacations
+- Sub Goals for a longer stream up to 24h of gaming
 
-Content:
+## Content:
 
-- A Xmas Gift speedrun | time??
-- Final Fantasy (whichever I'm at at the time of streaming) | 3h
-- Cult of the Lamb | 2 or 3h (find alternative in schedule in case chat is not active)
-- Zelda?
-- Kirby?
+### Main Content:
 
-- Kerbal Space Program (if EA is out) | 3h
+1. A Xmas Gift speedrun (SNES)
+2. RL - Snowday (PC)
+3. Kirby Super Star | Kirby Dream Land 3 | Kirby's Adventure
+4. Zelda OoT Masterquest (N64 or GC)
+5. Retro Poll : 
+    1. Ninja Gaiden Trilogy (SNES)
+    2. Prince of Persia
+    3. Teenage Mutant Ninja Turtles: Turtles in Time (SNES)
+    4. Sonic Chaos (GG)
+    5. 
+6. Chill Poll :
+    1. Slay the Spire (PC)
+    2. Monster Train (PC)
+    3. Loop Hero (PC)
+    4. Pokemon Trading Card Game (GBC)
+    5. Farming Simulator 22
 
-- Ancestors: The Humankind Odyssey | 2 or 3h
-- Frostpunk | 2h
-- Mega Man Legacy Collection 1 or 2? | 2h
-- Monument Valley | 2h
-- Neon Souls | 1h
-- Tunic | 3h
-- Sonic Frontiers | 2h
+### Sub Goal Content:
+
+1. Pokemon Nuzlocke 
+2. God of War (PS2)
+3. Super Mario 64 speedrun 16 stars (N64)
+4. Castlevania Symphony of the Night (PS1)
+5. Golden Sun (GBA)
+6. 
+7. Casio Mario World (troll)
+
+### Brainstorm:
+
+- Final Fantasy (whichever I'm at at the time of streaming)
+- Mystical Ninja Starring Goemon (N64)
+- Mario Paper (N64)
+- Donkey Kong Country 3
+- Shadow of Colossus
+
+## Schedule:
+
+Main Part 12h
+
+1. 9h  | A Xmas Gift speedrunning
+2. 
+3. 
+
+**30m BREAK**
+
+4. 
+5. 
+6. 
+
+**30m BREAK**
+
+Incentives Part 12h
+
+1. 
+2. 
+3. 
+
+**30m BREAK**
+
+4. 
+5. 
+6. 
