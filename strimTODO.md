@@ -12,6 +12,24 @@
 - 12 hours of gaming stream during xmas vacations
 - Sub Goals for a longer stream up to 24h of gaming
 
+## Prep Checklist
+
+- Empty and clean up the upper part of my work desk
+- Put decoration in upper part of work desk
+- Install LED strip
+- Xmas decorations on work desk and mic arm
+
+- Learn A Xmas Gift speedrun
+- Get back into the SM64 16 star speedrun
+- Make sure each chosen game can run well
+- Setup Pokemon Nuzlocke
+- Get Castlevania Symphony of the Night and get it to run on steam deck
+
+- New OBS scene for special stream?
+- Create some new alerts (alert variations)
+- Create some channel rewards
+
+
 ## Content:
 
 ### Main Content:
@@ -31,7 +49,7 @@
     2. Monster Train (PC)
     3. Loop Hero (PC)
     4. Pokemon Trading Card Game (GBC)
-    5. Farming Simulator 22
+    5. Farming Simulator 22 (PC)
 
 ### Sub Goal Content:
 
