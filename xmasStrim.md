@@ -60,26 +60,130 @@
 
 Main Part 12h
 
-1. 9h  | A Xmas Gift speedrunning
-2. 
-3. 
+1. 9h    | A Xmas Gift speedrunning
+2. 11h   | Zelda OoT Masterquest (GC)
+3. 13h   | Retro Poll
 
-**30m BREAK**
+4. 15h   | **30m BREAK**
 
-4. 
-5. 
-6. 
+5. 15h30 | RL - Snowday (PC)
+6. 17h30 | Kirby's Adventure (NES)
+7. 19h30 | Chill Poll
 
-**30m BREAK**
+8. 21h30 | **30m BREAK**
 
-Incentives Part 12h
+**Sub Goals Part 12h**
 
-1. 
-2. 
-3. 
+1. 22h   | Super Mario 64 speedrun 16 stars (N64)
+2. 0h    | Pokemon FireRed Nuzlocke (GBA)
+3. 2h    | God of War (PS2)
 
-**30m BREAK**
+4. 4h    | **30m BREAK**
 
-4. 
-5. 
-6. 
+5. 4h30  | Golden Sun (GBA)
+6. 6h30  | Castlevania Symphony of the Night (PS1)
+7. 8h30  | Donkey Kong Country 3 (SNES)
+
+8. Casio Mario World (troll)
+
+## Sub Goals
+
+1. 10 Subs
+2. 10 Subs (total 20)
+3. 10 Subs (total 30)
+4. 10 Subs (total 50)
+5. 10 Subs (total 60)
+6. 9 Subs (total 69)
+7. 420 Subs (Casio troll)
+
+## Game-Specific Stuff
+
+### Pokemon FireRed Nuzlocke
+
+Main rules:
+
+- You can only catch the first Pokemon encountered in each area. If the Pokemon faints or escapes, then you can no longer catch a Pokemon in that area.
+- If there are scripted battles or Shiny Pokemon encounters, then you can catch those Pokemon as well even if you already caught a Pokemon in that area.
+- If there is a double battle, then you can only catch one of those Pokemon.
+- Any Pokemon that you own that faints is considered dead. You must keep fainted pokemon in the Graveyard Box of the PC.
+
+- You must give your Pokemon a nickname.
+- If all your lineup faints, then that is considered as a Game Over.
+- You can only use Pokemon that you captured. You cannot use Pokemon traded to you by another player. However, Pokemon that are obtained through in-game NPCs by trading or just getting them are allowed.
+- No resets.
+
+Optionnal rules:
+
+- The Player ID (last digit) determines which Starter Pokemon you must choose. Numbers from 1 to 3 means you pick the Grass-type starter, 4 to 6 the Fire-type, 7 to 9 the Water-type, and 0 means you get to choose.
+- If the first encounter in an area is a pokemon you already caught before or an evolution of said pokemon, you are allowed to catch the pokemon in the next encounter. (limited retry?)
+- The use of Breeding and the Day Care Center is not allowed.
+- You are not allowed to flee Random Battles.
+
+- Limited potions?
+- No Masterball?
+- Limited use of each Pokecenter?
+- Artwork of the pokemon caught
+
+## OBS Overlay
+
+OBS Overlay needs for each game that will and might be played on stream:
+
+### A Xmas Gift Speedrun
+
+- LiveSplit
+- See if autosplitter works with A Xmas Gift, if not try to make it work
+- Controller viewer
+- Chat
+- Camera border
+- Game border
+
+### Zelda OoT Masterquest
+
+- Game info
+- Chat
+- Camera border
+- Game border
+
+### Retro Poll
+
+Chat will have a choice out of four games, in case chat is quiet, pick a game at random.
+
+#### Ninja Gaiden Trilogy
+
+#### Prince of Persia
+
+#### Teenage Mutant Ninja Turtles: Turtles in Time
+
+#### Mike Tyson's Punch-Out
+
+---
+
+### Rocket League - Snowday
+
+### Kirby's Adventure
+
+### Chill Poll
+
+#### Slay the Spire
+
+#### Monster Train
+
+#### Loop Hero
+
+#### Pokemon Trading Card Game
+
+#### Farming Simulator 22
+
+---
+
+### Super Mario 64 speedrun 16 stars
+
+### Pokemon FireRed Nuzlocke
+
+### God of War
+
+### Golden Sun
+
+### Castlevania Symphony of the Night
+
+### Donkey Kong Country 3
