@@ -1,5 +1,15 @@
 # SPECIAL STREAM
 
+## Stream Title
+
+The title could be the same throughout the stream or the title could be in two parts: first part never changes but second part changes with each game.
+
+- Star Wars Holiday Special *This broadcast contains no Star Wars related content.*
+- Le Nowell de Bine
+- Merry BineMas
+
+## Stream Concept
+
 - 12 hours of gaming stream during xmas vacations
 - Sub Goals for a longer stream up to 24h of gaming
 
@@ -146,44 +156,130 @@ OBS Overlay needs for each game that will and might be played on stream:
 
 ### Retro Poll
 
-Chat will have a choice out of four games, in case chat is quiet, pick a game at random.
+Chat will have a choice out of four games. In case chat is quiet, pick a game at random.
 
 #### Ninja Gaiden Trilogy
 
+- Game info
+- Chat
+- Camera border
+- Game border
+
 #### Prince of Persia
+
+- Game info
+- Chat
+- Camera border
+- Game border
 
 #### Teenage Mutant Ninja Turtles: Turtles in Time
 
+- Game info
+- Chat
+- Camera border
+- Game border
+
 #### Mike Tyson's Punch-Out
+
+- Game info
+- Chat
+- Camera border
+- Game border
 
 ---
 
 ### Rocket League - Snowday
 
+- Chat
+- Camera border
+
 ### Kirby's Adventure
+
+- Game info
+- Chat
+- Camera border
+- Game border
 
 ### Chill Poll
 
+Chat will have a choice out of five games. In case chat is quiet, pick a game at random.
+
 #### Slay the Spire
+
+- Game info
+- Chat
+- Camera border
+- Game border
 
 #### Monster Train
 
+- Game info
+- Chat
+- Camera border
+- Game border
+
 #### Loop Hero
+
+- Game info
+- Chat
+- Camera border
+- Game border
 
 #### Pokemon Trading Card Game
 
+- Game info
+- Chat
+- Camera border
+- Game border
+
 #### Farming Simulator 22
+
+- Chat
+- Camera border
 
 ---
 
 ### Super Mario 64 speedrun 16 stars
 
+- Livesplit
+- Controller viewer
+- Chat
+- Camera border
+- Game border
+
 ### Pokemon FireRed Nuzlocke
+
+- Game info
+- Chat
+- Camera border
+- Game border
+- Pokemon party artwork
+- Counters depending if there are rules limiting some stuff to keep track of it all
 
 ### God of War
 
+- Game info
+- Chat
+- Camera border
+- Game border
+
 ### Golden Sun
+
+- Game info
+- Chat
+- Camera border
+- Game border
 
 ### Castlevania Symphony of the Night
 
+- Game info
+- Chat
+- Camera border
+- Game border
+
 ### Donkey Kong Country 3
+
+- Game info
+- Chat
+- Camera border
+- Game border
