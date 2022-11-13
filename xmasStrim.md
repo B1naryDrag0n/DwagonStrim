@@ -13,6 +13,10 @@ The title could be the same throughout the stream or the title could be in two p
 - 12 hours of gaming stream during xmas vacations
 - Sub Goals for a longer stream up to 24h of gaming
 
+## Announcement Video
+
+Music of the intro screen of A Xmas Gift with a recording of myself introducing the stream while showing clips of the different games planned for the stream. End the video with a black screen with the song from Casio in the room just before the final boss. On the black screen show the date and time of the stream.
+
 ## Prep Checklist
 
 - Empty and clean up the upper part of my work desk
