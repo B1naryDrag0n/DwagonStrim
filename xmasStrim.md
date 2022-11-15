@@ -23,12 +23,11 @@ Music of the intro screen of A Xmas Gift with a recording of myself introducing 
 - Put decoration in upper part of work desk
 - Install LED strip
 - Xmas decorations on work desk
-- Get Xmas hat
 
 - Learn A Xmas Gift speedrun
 - Get back into the SM64 16 star speedrun
 - Setup Pokemon Nuzlocke
-- Setup the capture card
+- Make sure all games run on pc
 
 - New OBS scene for special stream?
 - Create some new alerts (alert variations)
@@ -132,11 +131,10 @@ Optionnal rules:
 - If the first encounter in an area is a pokemon you already caught before or an evolution of said pokemon, you are allowed to catch the pokemon in the next encounter. (limited retry?)
 - The use of Breeding and the Day Care Center is not allowed.
 - You are not allowed to flee Random Battles.
-
-- Limited potions?
-- No Masterball?
-- Limited use of each Pokecenter?
-- Artwork of the pokemon caught
+- You have to play in set mode (switching pokemon will cost you a turn).
+- You can only use items out of combat.
+- Draw each new pokemon that joins the main party.
+- Limited use of each Pokecenter (3 or 5 times each?). 
 
 ## OBS Overlay
 
