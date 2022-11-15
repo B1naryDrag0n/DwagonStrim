@@ -5,51 +5,51 @@ First playthroughs in progress:
 
 ### On Stream
 
-- **Ambivalence** by drkrdnk (redeemed by **itsmefigs**)
+- [**Ambivalence**](https://www.smwcentral.net/?p=section&a=details&id=31224) by drkrdnk (redeemed by **itsmefigs**)
 
 ### Off Stream
 
-- **Akogare Mario World** by Mega
-- **NH World** by l337f00l
+- [**Akogare Mario World**](https://www.smwcentral.net/?p=section&a=details&id=18612) by Mega
+- [**NH World**](https://www.smwcentral.net/?p=section&a=details&id=26003) by l337f00l
 
 ---
 ## TODO
 
-1. **Wario's Wonderful Walk** by Captain Domas (redeemed by **MinisterGold**)
-2. **Super Hark Bros 2** by ChrisG___
-3. **Bunbun World 2** by sio-kedelic (redeemed by **BlueRibbonHighLife**)
-4. **Gambol** by Jez (redeemed by **itsmefigs**)
-5. **Everything Is Not All Right** by Jordan (redeemed by **plaaane**)
+1. [**Wario's Wonderful Walk**](https://www.smwcentral.net/?p=section&a=details&id=30365) by Captain Domas (redeemed by **MinisterGold**)
+2. [**Super Hark Bros 2**](https://www.smwcentral.net/?p=section&a=details&id=26095) by ChrisG___
+3. [**Bunbun World 2**](https://www.smwcentral.net/?p=section&a=details&id=24356) by sio-kedelic (redeemed by **BlueRibbonHighLife**)
+4. [**Gambol**](https://www.smwcentral.net/?p=section&a=details&id=32193) by Jez (redeemed by **itsmefigs**)
+5. [**Everything Is Not All Right**](https://www.smwcentral.net/?p=section&a=details&id=31571) by Jordan (redeemed by **plaaane**)
 
 ---
 ## Completed 
 
 Hacks I've beaten 100%. Here is my SMW journey so far:
 
-1. **Of Jumps and Platforms** (standard) by Darolac
-2. **Nightmare Cafe** by Lush_50
-3. **Slurdgery** (standard) by Sixcorby
-4. **Cute Kaizo World** by slopcore
-5. **Baby Kaizo World** by Nowieso
-6. **Scary Bosses and Nice Sprites** by Darolac
-7. **Backwards Mario World** by westslasher2
-8. **EZ Kaizo** by blueribbonhighlife
-9. **Orcus** by Jordan
-10. **Quickie World** by Valdio
-11. **A Christmas Gift** by The_Uber_Camper
-12. **Quickie World 2** by Valdio
-13. **Cuter Kaizo World** by slopcore
-14. **Newbie Kaizo World** by Azula16
-15. **Love Yourself** by Chondontore
-16. **Nightmare Cafe II** by Lush_50
-17. **Full Bloom** by Chondontore
-18. **Stardust** by Kinkerton
-19. **Cornucopia of Kaizo** by CoozieShawn
-20. **Super Moo World** by Jenboo
+1. [**Of Jumps and Platforms**](https://www.smwcentral.net/?p=section&a=details&id=23814) (standard) by Darolac
+2. [**Nightmare Cafe**](https://www.smwcentral.net/?p=section&a=details&id=27026) by Lush_50
+3. [**Slurdgery**](https://www.smwcentral.net/?p=section&a=details&id=21787) (standard) by Sixcorby
+4. [**Cute Kaizo World**](https://www.smwcentral.net/?p=section&a=details&id=26252) by slopcore
+5. [**Baby Kaizo World**](https://www.smwcentral.net/?p=section&a=details&id=19145) by Nowieso
+6. [**Scary Bosses and Nice Sprites**](https://www.smwcentral.net/?p=section&a=details&id=29498) by Darolac
+7. [**Backwards Mario World**](https://www.smwcentral.net/?p=section&a=details&id=18071) by westslasher2
+8. [**EZ Kaizo**](https://www.smwcentral.net/?p=section&a=details&id=28771) by blueribbonhighlife
+9. [**Orcus**](https://www.smwcentral.net/?p=section&a=details&id=27800) by Jordan
+10. [**Quickie World**](https://www.smwcentral.net/?p=section&a=details&id=17441) by Valdio
+11. [**A Christmas Gift**](https://www.smwcentral.net/?p=section&a=details&id=28957) by The_Uber_Camper
+12. [**Quickie World 2**](https://www.smwcentral.net/?p=section&a=details&id=19279) by Valdio
+13. [**Cuter Kaizo World**](https://www.smwcentral.net/?p=section&a=details&id=30915) by slopcore
+14. [**Newbie Kaizo World**](https://www.smwcentral.net/?p=section&a=details&id=29486) by Azula16
+15. [**Love Yourself**](https://www.smwcentral.net/?p=section&a=details&id=30864) by Chondontore
+16. [**Nightmare Cafe II**](https://www.smwcentral.net/?p=section&a=details&id=27739) by Lush_50
+17. [**Full Bloom**](https://www.smwcentral.net/?p=section&a=details&id=27569) by Chondontore
+18. [**Stardust**](https://www.smwcentral.net/?p=section&a=details&id=26923) by Kinkerton
+19. [**Cornucopia of Kaizo**](https://www.smwcentral.net/?p=section&a=details&id=27923) by CoozieShawn
+20. [**Super Moo World**](https://www.smwcentral.net/?p=section&a=details&id=23075) by Jenboo
 
 ---
 ## On the Back Burner
 
 I started these hacks but decided to put them aside for now and try to finish them at some point in the future:
 
-1. **TIAGHTPIYJSPKW** by BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui
+1. [**TIAGHTPIYJSPKW**](https://www.smwcentral.net/?p=section&a=details&id=27729) by BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui
