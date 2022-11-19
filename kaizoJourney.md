@@ -20,6 +20,8 @@ First playthroughs in progress:
 3. [**Bunbun World 2**](https://www.smwcentral.net/?p=section&a=details&id=24356) by sio-kedelic (redeemed by **BlueRibbonHighLife**)
 4. [**Gambol**](https://www.smwcentral.net/?p=section&a=details&id=32193) by Jez (redeemed by **itsmefigs**)
 5. [**Everything Is Not All Right**](https://www.smwcentral.net/?p=section&a=details&id=31571) by Jordan (redeemed by **plaaane**)
+6. [**Invictus**](https://www.smwcentral.net/?p=section&a=details&id=18238) by juzcook (redeemed by **pineapplepants01**)
+7. [**Super Nothing World**](https://www.smwcentral.net/?p=section&a=details&id=29680) by NewPointless (redeemed by **gorpo_c**)
 
 ---
 ## Completed 
