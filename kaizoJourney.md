@@ -26,7 +26,7 @@ First playthroughs in progress:
 ---
 ## Completed 
 
-Hacks I've beaten 100%. Here is my SMW journey so far:
+Hacks I've beaten 100% in order I have beaten them. Here is my SMW journey so far:
 
 1. [**Of Jumps and Platforms**](https://www.smwcentral.net/?p=section&a=details&id=23814) (standard) by Darolac
 2. [**Nightmare Cafe**](https://www.smwcentral.net/?p=section&a=details&id=27026) by Lush_50
@@ -52,6 +52,6 @@ Hacks I've beaten 100%. Here is my SMW journey so far:
 ---
 ## On the Back Burner
 
-I started these hacks but decided to put them aside for now and try to finish them at some point in the future:
+I started these hacks but decided to put them aside for now and will try to finish them at some point in the future:
 
 1. [**TIAGHTPIYJSPKW**](https://www.smwcentral.net/?p=section&a=details&id=27729) by BabaYegha, LouisDoucet, Magmatic, StayAtHomeStegosaurus, Sweetdude, gui
