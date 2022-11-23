@@ -7,6 +7,8 @@ Here are different lists of games I have played on strim that are not SMW romhac
 - Rocket League
 - The Legend of Zelda: A Link to the Past
 
+---
+
 ## TODO
 
 Games I want to play on strim at some point:
@@ -28,10 +30,14 @@ Games I want to play on strim at some point:
 - Sekiro: Shadows Die Twice
 - Vampire Survivors
 
+---
+
 ## Completed
 
 - Stray
 - Degrees of Separation
+
+---
 
 ## On the Backburner
 
@@ -59,6 +65,8 @@ Games I have played before on strim but I don't know when I will play them agane
 - Mount & Blade II: Bannerlord
 - RimWorld
 - V Rising
+
+---
 
 ## Donut Touch!!!
 
