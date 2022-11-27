@@ -34,8 +34,8 @@ Games I want to play on strim at some point:
 
 ## Completed
 
-- Stray
 - Degrees of Separation
+- Stray
 
 ---
 
@@ -43,27 +43,28 @@ Games I want to play on strim at some point:
 
 Games I have played before on strim but I don't know when I will play them agane:
 
-- Subnautica
-- Super Mario 64
-- The Legend of Zelda: Ocarina of Time
 - American Truck Simulator
 - Among Trees
+- Assassin's Creed III
+- Baldur's Gate 3
+- Celeste
+- Cooking Simulator
+- Fall Guys
 - Farming Simulator 22
 - Final Fantasy VIII - Remastered
 - Forza Horizon 4
 - Hades
-- Mass Effect
-- Risk of Rain 2
-- Surviving Mars
-- Assassin's Creed III
-- Baldur's Gate 3
-- Fall Guys
+- Jurassic World Evolution
 - Kerbal Space Program
-- The Witcher 3: Wild Hunt
-- Celeste
-- Cooking Simulator
+- Mass Effect
 - Mount & Blade II: Bannerlord
 - RimWorld
+- Risk of Rain 2
+- Subnautica
+- Super Mario 64
+- Surviving Mars
+- The Legend of Zelda: Ocarina of Time
+- The Witcher 3: Wild Hunt
 - V Rising
 
 ---
