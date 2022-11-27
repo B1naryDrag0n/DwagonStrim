@@ -9,7 +9,6 @@ First playthroughs in progress:
 
 ### Off Stream
 
-- [**Akogare Mario World**](https://www.smwcentral.net/?p=section&a=details&id=18612) by Mega
 - [**NH World**](https://www.smwcentral.net/?p=section&a=details&id=26003) by l337f00l
 
 ---
@@ -48,6 +47,7 @@ Hacks I've beaten 100% in order I have beaten them. Here is my SMW journey so fa
 18. [**Stardust**](https://www.smwcentral.net/?p=section&a=details&id=26923) by Kinkerton
 19. [**Cornucopia of Kaizo**](https://www.smwcentral.net/?p=section&a=details&id=27923) by CoozieShawn
 20. [**Super Moo World**](https://www.smwcentral.net/?p=section&a=details&id=23075) by Jenboo
+21. [**Akogare Mario World**](https://www.smwcentral.net/?p=section&a=details&id=18612) by Mega
 
 ---
 ## On the Back Burner
