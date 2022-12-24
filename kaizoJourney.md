@@ -48,6 +48,7 @@ Hacks I've beaten 100% in order I have beaten them. Here is my SMW journey so fa
 19. [**Cornucopia of Kaizo**](https://www.smwcentral.net/?p=section&a=details&id=27923) by CoozieShawn
 20. [**Super Moo World**](https://www.smwcentral.net/?p=section&a=details&id=23075) by Jenboo
 21. [**Akogare Mario World**](https://www.smwcentral.net/?p=section&a=details&id=18612) by Mega
+22. [**Ninji Story**](https://www.smwcentral.net/?p=section&a=details&id=27585) by Lush_50
 
 ---
 ## On the Back Burner
