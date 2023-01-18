@@ -5,7 +5,7 @@ First playthroughs in progress:
 
 ### On Stream
 
-- [**Ambivalence**](https://www.smwcentral.net/?p=section&a=details&id=31224) by drkrdnk (redeemed by **itsmefigs**)
+- [**Wario's Wonderful Walk**](https://www.smwcentral.net/?p=section&a=details&id=30365) by Captain Domas (redeemed by **MinisterGold**)
 
 ### Off Stream
 
@@ -15,13 +15,12 @@ First playthroughs in progress:
 ---
 ## TODO
 
-1. [**Wario's Wonderful Walk**](https://www.smwcentral.net/?p=section&a=details&id=30365) by Captain Domas (redeemed by **MinisterGold**)
-2. [**Super Hark Bros 2**](https://www.smwcentral.net/?p=section&a=details&id=26095) by ChrisG___
-3. [**Bunbun World 2**](https://www.smwcentral.net/?p=section&a=details&id=24356) by sio-kedelic (redeemed by **BlueRibbonHighLife**)
-4. [**Gambol**](https://www.smwcentral.net/?p=section&a=details&id=32193) by Jez (redeemed by **itsmefigs**)
-5. [**Everything Is Not All Right**](https://www.smwcentral.net/?p=section&a=details&id=31571) by Jordan (redeemed by **plaaane**)
-6. [**Invictus**](https://www.smwcentral.net/?p=section&a=details&id=18238) by juzcook (redeemed by **pineapplepants01**)
-7. [**Super Nothing World**](https://www.smwcentral.net/?p=section&a=details&id=29680) by NewPointless (redeemed by **gorpo_c**)
+1. [**Super Hark Bros 2**](https://www.smwcentral.net/?p=section&a=details&id=26095) by ChrisG___
+2. [**Bunbun World 2**](https://www.smwcentral.net/?p=section&a=details&id=24356) by sio-kedelic (redeemed by **BlueRibbonHighLife**)
+3. [**Gambol**](https://www.smwcentral.net/?p=section&a=details&id=32193) by Jez (redeemed by **itsmefigs**)
+4. [**Everything Is Not All Right**](https://www.smwcentral.net/?p=section&a=details&id=31571) by Jordan (redeemed by **plaaane**)
+5. [**Invictus**](https://www.smwcentral.net/?p=section&a=details&id=18238) by juzcook (redeemed by **pineapplepants01**)
+6. [**Super Nothing World**](https://www.smwcentral.net/?p=section&a=details&id=29680) by NewPointless (redeemed by **gorpo_c**)
 
 ---
 ## Completed 
@@ -50,6 +49,7 @@ Hacks I've beaten 100% in order I have beaten them. Here is my SMW journey so fa
 20. [**Super Moo World**](https://www.smwcentral.net/?p=section&a=details&id=23075) by Jenboo
 21. [**Akogare Mario World**](https://www.smwcentral.net/?p=section&a=details&id=18612) by Mega
 22. [**Ninji Story**](https://www.smwcentral.net/?p=section&a=details&id=27585) by Lush_50
+23. [**Ambivalence**](https://www.smwcentral.net/?p=section&a=details&id=31224) by drkrdnk
 
 ---
 ## On the Back Burner
