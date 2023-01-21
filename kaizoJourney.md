@@ -21,6 +21,8 @@ First playthroughs in progress:
 4. [**Everything Is Not All Right**](https://www.smwcentral.net/?p=section&a=details&id=31571) by Jordan (redeemed by **plaaane**)
 5. [**Invictus**](https://www.smwcentral.net/?p=section&a=details&id=18238) by juzcook (redeemed by **pineapplepants01**)
 6. [**Super Nothing World**](https://www.smwcentral.net/?p=section&a=details&id=29680) by NewPointless (redeemed by **gorpo_c**)
+7. [**The New Comfort Zone**](https://www.smwcentral.net/?p=section&a=details&id=28543) by orka-bln (redeemed by **Meredwen**)
+8. [**Akogare 2**](https://www.smwcentral.net/?p=section&a=details&id=27094) by Mega (redeemed by **Frysdisken**)
 
 ---
 ## Completed 
