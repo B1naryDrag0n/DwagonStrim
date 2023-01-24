@@ -10,7 +10,6 @@ First playthroughs in progress:
 ### Off Stream
 
 - [**NH World**](https://www.smwcentral.net/?p=section&a=details&id=26003) by l337f00l
-- [**River Song**](https://www.smwcentral.net/?p=section&a=details&id=22513) by Monkeyfist
 
 ---
 ## TODO
@@ -52,6 +51,7 @@ Hacks I've beaten 100% in order I have beaten them. Here is my SMW journey so fa
 21. [**Akogare Mario World**](https://www.smwcentral.net/?p=section&a=details&id=18612) by Mega
 22. [**Ninji Story**](https://www.smwcentral.net/?p=section&a=details&id=27585) by Lush_50
 23. [**Ambivalence**](https://www.smwcentral.net/?p=section&a=details&id=31224) by drkrdnk
+24. [**River Song**](https://www.smwcentral.net/?p=section&a=details&id=22513) by Monkeyfist
 
 ---
 ## On the Back Burner
