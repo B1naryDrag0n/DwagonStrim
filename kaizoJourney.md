@@ -6,10 +6,12 @@ First playthroughs in progress:
 ### On Stream
 
 - [**Wario's Wonderful Walk**](https://www.smwcentral.net/?p=section&a=details&id=30365) by Captain Domas (redeemed by **MinisterGold**)
+- [**Liquid Metal**](https://www.smwcentral.net/?p=section&a=details&id=32520) by deported (redeemed by **Sivarticus**)
 
 ### Off Stream
 
 - [**NH World**](https://www.smwcentral.net/?p=section&a=details&id=26003) by l337f00l
+- [**Grand Poo World 2**](https://www.smwcentral.net/?p=section&a=details&id=19541) by Barbarian (redeemed by **Me** :D)
 
 ---
 ## TODO
