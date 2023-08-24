@@ -12,7 +12,7 @@ My speedrun career is very short as of now. Here is what I've worked on so far:
 
 You can watch the run on my youtube channel [here](https://youtu.be/wm2gcO4Jbws).
 
-I am currently the WR holder for this game! :D
+I am currently the WR holder for this game! I plan to go back to it soon to solidify the WR some more. To be continued... :D
 
 ## Super Mario 64
 
@@ -23,3 +23,7 @@ I am currently the WR holder for this game! :D
 - [Leaderboard](https://www.speedrun.com/sm64?h=16_Star-EMU&x=n2y55mko-e8m7em86.5lmoxk01)
 
 I ran this for a little bit, but I don't remember what was my PB. I'll learn the run again someday. :3
+
+## Next...
+
+After I'm done solidifying my WR in **Of Jumps and Platforms**, I wanna find another SMW kaizo romhack to speedrun...
