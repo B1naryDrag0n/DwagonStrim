@@ -1,2 +1,3 @@
 # StrimStuff
-Code and stuff for my Twitch chat :3
+
+Stuff for le strim :3
