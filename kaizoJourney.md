@@ -15,6 +15,7 @@ First playthroughs in progress:
 
 ### Off Stream
 
+- [**Mini Kaizo**](https://www.smwcentral.net/?p=section&a=details&id=32943) by KarDiux (hitbox practice)
 - [**Grand Poo World 2**](https://www.smwcentral.net/?p=section&a=details&id=19541) by Barbarian (redeemed by **Me** :D)
 - [**NH World**](https://www.smwcentral.net/?p=section&a=details&id=26003) by l337f00l
 
