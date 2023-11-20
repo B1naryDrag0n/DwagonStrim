@@ -8,6 +8,7 @@ First playthroughs in progress:
 
 ### On Stream
 
+- [**Grand Poo World 3**](https://www.smwcentral.net/?p=section&a=details&id=35537) by Barbarian
 - [**Super Nothing World**](https://www.smwcentral.net/?p=section&a=details&id=29680) by NewPointless (redeemed by **0fn**)
 - [**Grand Poo World 2**](https://www.smwcentral.net/?p=section&a=details&id=19541) by Barbarian (redeemed by **Me** :D)
 - [**Wario's Wonderful Walk**](https://www.smwcentral.net/?p=section&a=details&id=30365) by Captain Domas (redeemed by **MinisterGold**)
