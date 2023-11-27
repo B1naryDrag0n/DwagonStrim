@@ -12,7 +12,7 @@ I want this server to be peaceful. In order to achieve that, here are the differ
 
 **If you can't follow these 3 simple rules, you will straight out be banned from the server!**
 
-Not anybody can access the server, only whitelisted players can. In order to do so, I need your account UUID. If you wanna join the server, ya prolly know where to find me on Discord. ~UwU~
+Not anybody can access the server, only whitelisted players can. In order to do so, I need your player UUID. If you wanna join the server, ya prolly know where to find me on Discord. UwU
 
 ## Getting Started
 
