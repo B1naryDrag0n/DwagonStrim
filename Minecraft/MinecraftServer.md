@@ -24,23 +24,23 @@ This server uses **Minecraft JAVA Edition** and runs on the version **1.20.1** o
 
 ### Forge
 
-**Forge** is the tool that is used to apply the mods to the game. Since quite a few mods also need to be installed client side, you need to install **Forge**. To be noted that you need the version of **Forge** that matches the version of Minecraft used (1.20.1).
+**Forge** is the tool that is used to apply the mods to the game. Since quite a few mods also need to be installed client side, you need to install [**Forge**](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html). To be noted that you need the version of **Forge** that matches the version of Minecraft used (1.20.1).
 
 Once **Forge** is installed on the client, you can then create a Forge 1.20.1 installation in the **Minecraft Launcher**.
 
 ### Graphics
 
-If you have seen me screenshare Minecraft and you would like your game to have a similar look, you need to add [**Optifine**](https://optifine.net/downloads) (which is already included in the zipped mods folder available on this repo...you are welcome :3).
+If you have seen me screenshare Minecraft and you would like your game to have a similar look, you need to add [**Optifine**](https://optifine.net/downloads) (which is already included in the mods folder available on this repo...you are welcome :3).
 
-You then need to download [**Sildur's Vibrant Shaders**](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders) and put the downloaded zip file in the xxx folder of your Minecraft installation.
+You then need to download [**Sildur's Vibrant Shaders**](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders) and put the downloaded zip file in the **shaderpacks** folder of your Minecraft installation.
 
-I also use better textures, which you can get [**here**](https://faithfulpack.net/downloads).
+I also use better textures, which you can get [**here**](https://faithfulpack.net/downloads). Put the zip file downloaded in the **resourcepacks** folder of your Minecraft installation.
 
-Also, if you wanna have the rainbow XP bar like I do, [**here it is**](https://www.curseforge.com/minecraft/texture-packs/rainbow-xp-bar-and-ping).
+Also, if you wanna have the rainbow XP bar like I do, [**here it is**](https://www.curseforge.com/minecraft/texture-packs/rainbow-xp-bar-and-ping). Again this goes in the **resourcepacks** folder of your Minecraft installation.
 
 ### Mods
 
-You can find a zipped **mods** folder HERE. The content of this folder has to go in the mods folder of your Minecraft installation.
+You can find the files for the required client-side mods folder [HERE](./mods/). The content of this folder has to go in the mods folder of your Minecraft installation.
 
 Here is a list of the mods used on the server:
 
