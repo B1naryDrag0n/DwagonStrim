@@ -69,7 +69,6 @@ Here is a list of the mods used on the server:
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
-- [Survive](https://www.curseforge.com/minecraft/mc-mods/survive)
 - [UnionLib](https://www.curseforge.com/minecraft/mc-mods/unionlib)
 - [Spice of Life](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 - [Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins)
