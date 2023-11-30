@@ -30,6 +30,8 @@ Once **Forge** is installed on the client, you can then create a Forge 1.20.1 in
 
 ### Graphics
 
+Note: none of the graphics stuff is required to play on the server.
+
 If you have seen me screenshare Minecraft and you would like your game to have a similar look, you need to add [**Optifine**](https://optifine.net/downloads) (which is already included in the mods folder available on this repo...you are welcome :3).
 
 You then need to download [**Sildur's Vibrant Shaders**](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders) and put the downloaded zip file in the **shaderpacks** folder of your Minecraft installation.
