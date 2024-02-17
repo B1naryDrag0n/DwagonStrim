@@ -61,7 +61,7 @@ Hacks I've beaten 100% in order I have beaten them. Here is my SMW journey so fa
 22. [**Ninji Story**](https://www.smwcentral.net/?p=section&a=details&id=27585) by Lush_50
 23. [**Ambivalence**](https://www.smwcentral.net/?p=section&a=details&id=31224) by drkrdnk
 24. [**River Song**](https://www.smwcentral.net/?p=section&a=details&id=22513) by Monkeyfist
-25. [**Nightmare Cafe III](https://www.smwcentral.net/?p=section&a=details&id=27737) by Lush_50
+25. [**Nightmare Cafe III**](https://www.smwcentral.net/?p=section&a=details&id=27737) by Lush_50
 
 ---
 ## On the Back Burner
