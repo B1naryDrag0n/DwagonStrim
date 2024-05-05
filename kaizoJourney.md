@@ -33,7 +33,7 @@ First playthroughs in progress:
 ---
 ## Completed 
 
-Hacks I've beaten 100% in order I have beaten them. Here is my SMW journey so far:
+Hacks I've completed 100% in the order I have beaten them. Here is my SMW journey so far:
 
 1. [**Of Jumps and Platforms**](https://www.smwcentral.net/?p=section&a=details&id=23814) (standard) by Darolac
 2. [**Nightmare Cafe**](https://www.smwcentral.net/?p=section&a=details&id=27026) by Lush_50
