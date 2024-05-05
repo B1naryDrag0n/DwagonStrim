@@ -17,6 +17,7 @@ First playthroughs in progress:
 ### Off Stream
 
 - [**Grand Poo World 2**](https://www.smwcentral.net/?p=section&a=details&id=19541) by Barbarian (redeemed by **Me** :D)
+- [**Lucky**](https://www.smwcentral.net/?p=section&a=details&id=32513) by Lush_50
 
 ---
 ## TODO
