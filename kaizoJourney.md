@@ -17,7 +17,6 @@ First playthroughs in progress:
 ### Off Stream
 
 - [**Grand Poo World 2**](https://www.smwcentral.net/?p=section&a=details&id=19541) by Barbarian (redeemed by **Me** :D)
-- [**NH World**](https://www.smwcentral.net/?p=section&a=details&id=26003) by l337f00l
 
 ---
 ## TODO
@@ -62,6 +61,7 @@ Hacks I've beaten 100% in order I have beaten them. Here is my SMW journey so fa
 24. [**River Song**](https://www.smwcentral.net/?p=section&a=details&id=22513) by Monkeyfist
 25. [**Nightmare Cafe III**](https://www.smwcentral.net/?p=section&a=details&id=27737) by Lush_50
 26. [**Mini Kaizo**](https://www.smwcentral.net/?p=section&a=details&id=32943) by KarDiux
+27. [**NH World**](https://www.smwcentral.net/?p=section&a=details&id=26003) by l337f00l
 
 ---
 ## On the Back Burner
