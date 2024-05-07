@@ -8,6 +8,7 @@ First playthroughs in progress:
 
 ### On Stream
 
+- [**Lucky**](https://www.smwcentral.net/?p=section&a=details&id=32513) by Lush_50
 - [**Wario's Wonderful Walk**](https://www.smwcentral.net/?p=section&a=details&id=30365) by Captain Domas (redeemed by **MinisterGold**)
 - [**Super Nothing World**](https://www.smwcentral.net/?p=section&a=details&id=29680) by NewPointless (redeemed by **0fn**)
 - [**Liquid Metal**](https://www.smwcentral.net/?p=section&a=details&id=32520) by deported (redeemed by **Sivarticus**)
