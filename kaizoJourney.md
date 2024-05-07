@@ -64,6 +64,7 @@ Hacks I've completed 100% in the order I have beaten them. Here is my SMW journe
 26. [**Mini Kaizo**](https://www.smwcentral.net/?p=section&a=details&id=32943) by KarDiux
 27. [**NH World**](https://www.smwcentral.net/?p=section&a=details&id=26003) by l337f00l
 28. [**A Short Kaizo**](https://www.smwcentral.net/?p=section&a=details&id=32874) by Lush_50
+29. [**Nightmare Cafe IV**](https://www.smwcentral.net/?p=section&a=details&id=27735) by Lush_50
 
 ---
 ## On the Back Burner
